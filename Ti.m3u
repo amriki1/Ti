@@ -19,3 +19,7 @@ http://ehson.in:2082/live/cyber/tech/33098.m3u8
 http://dream4k.co:80/play/live.php?mac=00:1A:79:17:12:88&stream=256631&extension=ts&play_token=zoollfTNqw
 #EXTINF:-1,Canal+premier league
 http://dream4k.co:80/play/live.php?mac=00:1A:79:17:12:88&stream=115870&extension=ts&play_token=9iCtofpELE
+#EXTINF:-1,Canal+ 360
+http://dream4k.co:80/play/live.php?mac=00:1A:79:17:12:88&stream=256628&extension=ts&play_token=3YwUXXq7Ho
+#EXTINF:-1,TF1 4K
+http://dream4k.co:80/play/live.php?mac=00:1A:79:17:15:40&stream=264279&extension=ts&play_token=0B2J3ZuIq3

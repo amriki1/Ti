@@ -39,18 +39,81 @@ http://dream4k.co:80/play/live.php?mac=00:1A:79:17:12:88&stream=114047&extension
 http://dream4k.co:80/play/live.php?mac=00:1A:79:17:12:88&stream=114046&extension=ts&play_token=TeDZBDJ7EL
 #EXTINF:-1,beIN SPORTS 8
 http://dream4k.co:80/play/live.php?mac=00:1A:79:17:12:88&stream=114045&extension=ts&play_token=lJDl4EqxIO
-
-#EXTINF:-1,canal+ 1
-http://dream4k.co:80/play/live.php?mac=00:1A:79:17:15:40&stream=151081&extension=ts&play_token=10Nh4QSCAL
-
-#EXTINF:-1,canal+ 2
-http://dream4k.co:80/play/live.php?mac=00:1A:79:17:15:40&stream=151082&extension=ts&play_token=l9ZvhZ4KNn
-
-#EXTINF:-1canal+ 3
-http://dream4k.co:80/play/live.php?mac=00:1A:79:17:15:40&stream=151083&extension=ts&play_token=HPlBrmxjwS
-
-#EXTINF:-1,canal+ 4
-http://dream4k.co:80/play/live.php?mac=00:1A:79:17:15:40&stream=151084&extension=ts&play_token=JSfUEWeTec
-
-#EXTINF:-1,canal+ 5
-http://dream4k.co:80/play/live.php?mac=00:1A:79:17:15:40&stream=151085&extension=ts&play_token=abakMDukvy
+#EXTINF:0 tvg-id="ext" group-title="Netflix 🎥",Box Office 1
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=1791226&extension=ts&play_token=WJG2xCktLb
+#EXTINF:0 tvg-id="ext" group-title="Netflix 🎥",Box Office 2
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=1791227&extension=ts&play_token=qZsOHH9po8
+#EXTINF:0 tvg-id="ext" group-title="Netflix 🎥",Box Office 3
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=1791228&extension=ts&play_token=03CJFEj4vD
+#EXTINF:0 tvg-id="ext" group-title="Netflix 🎥",Box Office 4
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=1791229&extension=ts&play_token=6PFtC2e3HT
+#EXTINF:0 tvg-id="ext" group-title="Netflix 🎥",Box Office 5
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=1791225&extension=ts&play_token=ETYFoKzGUw
+#EXTINF:0 tvg-id="ext" group-title="Sports Replay♾️",Sports Replay 1
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234023&extension=ts&play_token=uctOL8iupU
+#EXTINF:0 tvg-id="ext" group-title="Sports Replay♾️",Sports Replay 2
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234024&extension=ts&play_token=10eOST1dqb
+#EXTINF:0 tvg-id="ext" group-title="Sports Replay♾️",Sports Replay 3
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234025&extension=ts&play_token=QVEOLYtjZL
+#EXTINF:0 tvg-id="ext" group-title="Sports Replay♾️",Sports Replay 4
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234026&extension=ts&play_token=M7ObKPFhNN
+#EXTINF:0 tvg-id="ext" group-title="Sports Replay♾️",Sports Replay 5
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234027&extension=ts&play_token=qyiwOULaCh
+#EXTINF:0 tvg-id="ext" group-title="Sports Replay♾️",Sports Replay 6
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234028&extension=ts&play_token=Wwhzj9jrqN
+#EXTINF:0 tvg-id="ext" group-title="Sports Replay♾️",Sports Replay 7
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234030&extension=ts&play_token=Uk7fkkEdTw
+#EXTINF:0 tvg-id="ext" group-title="Sports Replay♾️",Sports Replay 8
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234034&extension=ts&play_token=atKbq7zSeb
+#EXTINF:0 tvg-id="ext" group-title="Canal+ Sports 🇫🇷 ",Canal+ Sports 1
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=151081&extension=ts&play_token=10Nh4QSCAL
+#EXTINF:0 tvg-id="ext" group-title="Canal+ Sports 🇫🇷 ",Canal+ Sports 2
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=151082&extension=ts&play_token=l9ZvhZ4KNn
+#EXTINF:0 tvg-id="ext" group-title="Canal+ Sports 🇫🇷 ",Canal+ Sports 3
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=151083&extension=ts&play_token=HPlBrmxjwS
+#EXTINF:0 tvg-id="ext" group-title="Canal+ Sports 🇫🇷 ",Canal+ Sports 4
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=151084&extension=ts&play_token=JSfUEWeTec
+#EXTINF:0 tvg-id="ext" group-title="Canal+ Sports 🇫🇷 ",Canal+ Sports 5
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=151085&extension=ts&play_token=abakMDukvy
+#EXTINF:0 tvg-id="ext" group-title="African Sports 🇿🇦",Super Sport Football
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=138591&extension=ts&play_token=LivcAeoaJA
+#EXTINF:0 tvg-id="ext" group-title="African Sports 🇿🇦",Super Sport Football Plus
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=138589&extension=ts&play_token=ycwXOdSZja
+#EXTINF:0 tvg-id="ext" group-title="African Sports 🇿🇦",Super Sport LaLiga
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=138584&extension=ts&play_token=d9DNPUmjoj
+#EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",RMC Documentaire
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=32818&extension=ts&play_token=20qAhd0K1W
+#EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",RMC découvert
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=329&extension=ts&play_token=p9FQYO7CQM
+#EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",Plante+
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=330&extension=ts&play_token=2t0WGkTUaL
+#EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",Nat Geo
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=336&extension=ts&play_token=aBLCMGvq6y
+#EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",Discovry
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=334&extension=ts&play_token=ShGYhYrm4G
+#EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",Ushuaia
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=335&extension=ts&play_token=bZoFylVbTq
+#EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",Animaux
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=338&extension=ts&play_token=m2wLvBbTFB
+#EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",Canal+ Docs
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=156878&extension=ts&play_token=JsrgV53kZY
+#EXTINF:0 tvg-id="ext" group-title="France 🇫🇷 ",Crime District
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=32813&extension=ts&play_token=EMQLgtMOEf
+#EXTINF:0 tvg-id="ext" group-title="France 🇫🇷 ",ID
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=148482&extension=ts&play_token=0VAcYuMyND
+#EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",Bein Sport Haber
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=196816&extension=ts&play_token=DXG1JuEDA7
+#EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",Bein Sport 1 UHD
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=10698&extension=ts&play_token=ZSByA4ISOE
+#EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",Bein Sport 2 UHD
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=10697&extension=ts&play_token=mjzYth8fAp
+#EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",Bein Sport 3 UHD
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=10695&extension=ts&play_token=jS4tDEqR0i
+#EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",Bein Sport 4 UHD
+http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:11:4F:9F&stream=2212&extension=ts&play_token=Lsw5qCVMab
+#EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",A Spor UHD
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=170678&extension=ts&play_token=9FsJbxFjSX
+#EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",TRT Spor UHD
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=170679&extension=ts&play_token=2R8n7cwomq
+#EXTINF:-1,La1 HD
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=653&extension=ts&play_token=C9EeEwS9xD
